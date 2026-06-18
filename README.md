@@ -18,6 +18,8 @@ A travel tracking web application that lets you log cities you’ve visited, vis
 [//]: # ()
 [//]: # (---)
 
+<img src='screenshots/app.jpg' width="600"/>
+
 ## Features
 
 🌍 Interactive map with your visited cities  
